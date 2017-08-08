@@ -1,0 +1,18 @@
+config_name: "Data Diode"
+config_version: 1.0
+config_date: 08-08-2017
+
+dyode_in:
+ip: [HIGHSIDE]
+mac: [HIGHSIDE]
+
+dyode_out:
+ip: [LOWSIDE]
+mac: [LOWSIDE]
+
+modules:
+"Data Sender"
+type: folder
+port: 9600
+out: [RECEIVING FOLDER PATH]
+in: [SENDING FOLDER PATH]
