@@ -16,4 +16,5 @@ Future Improvements:
 * MOVE sent files- don't delete them. 
 * Better user interface
 * Start up bash script
+* Chop large files into smaller files before sending
 
