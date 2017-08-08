@@ -15,4 +15,5 @@ https://prezi.com/view/UxX1QYND0J55crXpJXpd/
 Future Improvements:
 * MOVE sent files- don't delete them. 
 * Better user interface
+* Start up bash script
 
