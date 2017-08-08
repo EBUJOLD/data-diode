@@ -17,4 +17,4 @@ Future Improvements:
 * Better user interface
 * Start up bash script
 * Chop large files into smaller files before sending
-
+* Live dangerously fast (send packets faster, this will increase chance of error)
