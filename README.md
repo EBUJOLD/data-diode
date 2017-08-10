@@ -3,7 +3,9 @@
 # data-diode-project
 Summer internship project for Virginia Space. Created a data diode for one way communication!
 
-**See Wiki for tutorial and instructions**
+**See Wiki for installation tutorial and instructions for operation**
+
+I'm not an expert by any means, but I can try to answer questions if you have them in "Issues".
 
 Send Video
 https://youtu.be/LOPqd6WBNh4 
